@@ -1,8 +1,8 @@
 # 🌦️ React Weather App
 
-A weather application built with React and the OpenWeather API. Users can search for any city and get live weather data including temperature, humidity, and conditions.
+``` A weather application built with React and the OpenWeather API. Users can search for any city and get live weather data including temperature, humidity, and conditions.```
 
-# 🚀 Features
+## 🚀 Features
 
 - 🌍 Search weather by city name
 
@@ -12,7 +12,7 @@ A weather application built with React and the OpenWeather API. Users can search
 
 - ⚡ Fetches live data using Axios & async/await
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 - React (components, props, hooks)
 
@@ -22,7 +22,7 @@ A weather application built with React and the OpenWeather API. Users can search
 
 - CSS / Tailwind
 
-# 📚 What I Learned
+## 📚 What I Learned
 
 - Handling API integration in React
 
@@ -32,7 +32,7 @@ A weather application built with React and the OpenWeather API. Users can search
 
 - Working with environment variables for API keys
 
-# 🔧 Setup & Installation
+## 🔧 Setup & Installation
 
 - Clone this repo:
 
