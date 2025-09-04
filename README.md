@@ -53,6 +53,4 @@ REACT_APP_API_KEY=your_api_key_here
 
 `npm start`
 
-📸 Screenshots
-
-(Add a screenshot or GIF here if you can, makes it 10x more attractive.)
+🔗 **Live Demo:** [Click here](https://normalweather.netlify.app)  
